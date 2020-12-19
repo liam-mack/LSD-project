@@ -39,7 +39,7 @@ Live Demo: https://diliubarets.github.io/LSD-project/
 Live Recording?: No  
 
 Screenshot?: Yes
-![](images/Deployed.png)
+![](Deployed.png)
 
 ### Questions
 >If you have any further questions about the application:
