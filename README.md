@@ -35,6 +35,7 @@
 
 ## Deployment
 Live Demo: https://diliubarets.github.io/LSD-project/
+
 Live Recording?: No  
 
 Screenshot?: Yes
