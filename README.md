@@ -1,5 +1,3 @@
-Live Demo: https://diliubarets.github.io/LSD-project/
-
 # LSD Crypto
 [![License](https://img.shields.io/badge/License-Unlicense-blue.svg)](https://opensource.org/licenses/Unlicense)
 
@@ -36,6 +34,7 @@ Live Demo: https://diliubarets.github.io/LSD-project/
 >Unlicense
 
 ## Deployment
+Live Demo: https://diliubarets.github.io/LSD-project/
 Live Recording?: No  
 
 Screenshot?: Yes
