@@ -1,39 +1,49 @@
 Live Demo: https://diliubarets.github.io/LSD-project/
 
-Assignment for Carleton university codding boot camp 
+# LSD Crypto
+[![License](https://img.shields.io/badge/License-Unlicense-blue.svg)](https://opensource.org/licenses/Unlicense)
 
+## Table of Contents
+> - [Description](#Description)
+> - [Keywords](#Keywords)
+> - [Contributors](#Contributors)
+> - [Usage](#Usage)
+> - [Installation](#Installation)
+> - [Test](#Testing)
+> - [License](#License)
+> - [Deployment](#Deployment)
+> - [Questions](#Questions)
 
-On project works:
-Liam: https://github.com/liam-mack, 
-Shamik: https://github.com/shamik05, 
-Dina:https://github.com/DiLiubarets
+## Description
+>LSD is an exchange-neutral tool designed for the modern cryptocurrency/token traders. Whether you are a professional investor or an amateur enthusiast, LSD provides all the necessary tools to get a grasp on the Cryptocurrency market.
 
+## Keywords
+>*Chart.JS, CoinCap & News APIs, HTML, CSS, Material UI*
 
-About LSD
-LSD is an exchange-neutral tool designed for the modern cryptocurrency/token traders. Whether you are a professional investor or an amateur enthusiast, LSD provides all the necessary tools to grab the market bull by its horns.
+## Contributors
+>Liam Mackinnon, Shamik Haldar, Dina Liubarets
 
- Track real-time prices to outmaneuver your opposition
- Predict the future with our database of historical prices
- Relax by subscribing to our notification system emailing you of changing trends
- View how your crypto stacks up against the competition by staying informed through our news section
-Powered by CoinCap and NewsAPI, LSD brings you accurate performance statistics for free!
+## Usage 
+>github pages deployment - see below for link
 
-# Project 1
+## Installation
+>*None*
 
-## Application Requirements
+## Testing
+>
 
-* Must use at least two server-side APIs
+## License
+>Unlicense
 
-* Must use a CSS framework _other than_ Bootstrap
+## Deployment
+Live Recording?: No  
 
-* Must be interactive (i.e: accept and respond to user input)
+Screenshot?: Yes
+![](images/Deployed.png)
 
-* Use at least one new third-party API
+### Questions
+>If you have any further questions about the application:
+>Email: LMackinnon.inbox@gmail.com
+>
+>GitHub: www.github.com/liam-mack
 
-* Must have a polished UI
-
-* Must meet good quality coding standards
-
-* Does not use alerts, confirms or prompts (look into _modals_)
-
-* Must be deployed to GitHub Pages
